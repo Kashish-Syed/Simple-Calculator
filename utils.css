@@ -1,0 +1,41 @@
+/* a class to shift the heading to the center */
+.text-center {
+  text-align: center;
+}
+
+.text-position {
+  text-align: center;
+  vertical-align: middle;
+  padding: 0px;
+  width: 50px;
+  margin: 0 3px;
+  line-height: 3.1rem;
+}
+
+.bg-color {
+  background-color: orange;
+}
+
+.text-color {
+  color: white;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.text-right {
+  text-align: right;
+}
